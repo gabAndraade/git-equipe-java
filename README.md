@@ -1,1 +1,1 @@
-Linha da equipe: Equipe = [Gabriel de Carvalho Andrade, José Vieira Lopes Neto]
+Linha da equipe: Equipe = [Gabriel de Carvalho Andrade, José Vieira Neto Lopes]
